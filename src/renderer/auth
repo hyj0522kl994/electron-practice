@@ -1,0 +1,4 @@
+import React, { Component } from 'react';
+import unixTime from 'unix-time';
+
+unixTime(new Date());
